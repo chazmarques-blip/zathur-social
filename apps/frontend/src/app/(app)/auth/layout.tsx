@@ -31,7 +31,7 @@ export default async function AuthLayout({
         </div>
         <div className="text-[36px] flex-1 pt-[88px] hidden lg:flex flex-col items-center">
           <div className="text-center">
-            Over <span className="text-[42px] text-[#FC69FF]">20,000+</span>{' '}
+            Over <span className="text-[42px] text-[#4DA2E3]">20,000+</span>{' '}
             Entrepreneurs use
             <br />
             Zathur Social To Grow Their Social Presence
